@@ -1,0 +1,134 @@
+.container-fluid {
+    background-image: url('https://cms-web.olacabs.com/00000000383.jpg');
+    background-size: 100% 100%;
+    /* background-position: center; */
+    opacity: 0.9;
+}
+.wdd
+{
+    padding: 10px;
+}
+#cedcab
+{
+    color:  #cddc39;
+}
+
+.icons i
+{
+    float: right;
+
+    padding:10px;
+    height: 40px;
+    width: 40px;
+}
+#para
+{
+    color: white;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+    color: black;
+    border-radius: 20px;
+    background-color: #cddc39;
+    border: none;
+}
+
+.container {
+    top: 50px;
+    text-align: center;
+    color: teal;
+    font-weight: bold;
+}
+.display-4 {
+    padding: 19px;
+    font-size: 50px;
+     color:white;
+}
+p {
+    font-size: 25px;
+    margin-top: -25px;
+}
+.card {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.card-body h6 {
+    margin-bottom: 15px;
+}
+.card #header {
+    background: #cddc39;
+    padding: 9px 24px;
+    border-radius: 21px;
+}
+.card-title {
+    font-weight: bold !important;
+    margin-bottom: 2px;
+} 
+.a li
+{
+    float: right;
+    list-style-type: none;
+    padding: 5px;
+}
+#cll
+{
+    color: #cddc39;
+}
+.card .card-body a {
+    background-color: #cddc39;
+    color: black;
+    font-size: 19px;
+}
+input, select:focus {
+    outline: none !important;
+}
+.g{
+    -webkit-appearance: none;
+    background-color: #e9ecef;
+    border:none;
+}
+input[type='text'] {
+    background-color: #e9ecef;
+    border: none;
+}
+.g:focus {
+    box-shadow: none;
+    background-color: #e9ecef;
+}
+input[type='text']:focus {
+    box-shadow: none;
+    background-color: #e9ecef;
+}
+.input-group-text {
+    border: none;
+    font-size: 10px;
+    width: 80px;
+}
+@media only screen and (max-width: 1024px) {
+    .display-4 {
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .display-4 {
+        font-size: 30px;
+    }
+    p {
+        font-size: 20px;
+    }
+    .card {
+        margin-top: 13px;
+    }
+}
+.mt-5
+{
+    color: red;
+    background-color: yellow;
+}
+.itemlist ul li
+{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}

@@ -1,0 +1,13 @@
+.wrapper img
+{
+	opacity: 0.6;
+	position :absolute;
+	z-index: -1;
+}
+.signup
+{
+	text-align: center;
+	margin-top:500px
+	position:relative;
+    padding:50px;
+}

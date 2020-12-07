@@ -1,0 +1,23 @@
+.wrapperr img
+{
+	opacity: 0.8;
+	position :absolute;
+	z-index: -1;
+}
+.login
+{
+	text-align: center;
+	position:relative;
+padding:200px;
+
+height:20px;
+width:auto;
+padding:60px;
+	}
+	
+	input{
+
+		color:red;
+		background-color:bisque;
+		padding:5px;
+	}
